@@ -1,0 +1,15 @@
+C:\src\OOP-Assn1\StringFunctionality\bin\Debug\net8.0\StringFunctionality.exe
+C:\src\OOP-Assn1\StringFunctionality\bin\Debug\net8.0\StringFunctionality.deps.json
+C:\src\OOP-Assn1\StringFunctionality\bin\Debug\net8.0\StringFunctionality.runtimeconfig.json
+C:\src\OOP-Assn1\StringFunctionality\bin\Debug\net8.0\StringFunctionality.dll
+C:\src\OOP-Assn1\StringFunctionality\bin\Debug\net8.0\StringFunctionality.pdb
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.AssemblyInfoInputs.cache
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.AssemblyInfo.cs
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.csproj.CoreCompileInputs.cache
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.sourcelink.json
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.dll
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\refint\StringFunctionality.dll
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.pdb
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\StringFunctionality.genruntimeconfig.cache
+C:\src\OOP-Assn1\StringFunctionality\obj\Debug\net8.0\ref\StringFunctionality.dll

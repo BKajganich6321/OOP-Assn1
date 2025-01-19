@@ -1,0 +1,15 @@
+C:\src\OOP-Assn1\MathOperations\bin\Debug\net8.0\MathOperations.exe
+C:\src\OOP-Assn1\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+C:\src\OOP-Assn1\MathOperations\bin\Debug\net8.0\MathOperations.runtimeconfig.json
+C:\src\OOP-Assn1\MathOperations\bin\Debug\net8.0\MathOperations.dll
+C:\src\OOP-Assn1\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.sourcelink.json
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.dll
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\MathOperations.genruntimeconfig.cache
+C:\src\OOP-Assn1\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll

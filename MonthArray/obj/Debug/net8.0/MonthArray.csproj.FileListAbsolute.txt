@@ -1,0 +1,15 @@
+C:\src\OOP-Assn1\MonthArray\bin\Debug\net8.0\MonthArray.exe
+C:\src\OOP-Assn1\MonthArray\bin\Debug\net8.0\MonthArray.deps.json
+C:\src\OOP-Assn1\MonthArray\bin\Debug\net8.0\MonthArray.runtimeconfig.json
+C:\src\OOP-Assn1\MonthArray\bin\Debug\net8.0\MonthArray.dll
+C:\src\OOP-Assn1\MonthArray\bin\Debug\net8.0\MonthArray.pdb
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.AssemblyInfoInputs.cache
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.AssemblyInfo.cs
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.csproj.CoreCompileInputs.cache
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.sourcelink.json
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.dll
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\refint\MonthArray.dll
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.pdb
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\MonthArray.genruntimeconfig.cache
+C:\src\OOP-Assn1\MonthArray\obj\Debug\net8.0\ref\MonthArray.dll
